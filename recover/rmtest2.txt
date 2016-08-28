@@ -1,1 +1,0 @@
-Recovery testing after git rm
